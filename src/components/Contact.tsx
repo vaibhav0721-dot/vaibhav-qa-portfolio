@@ -112,7 +112,7 @@ const Contact = () => {
                   <div className="p-4 rounded-xl bg-primary/10 border border-primary/20">
                     <h4 className="font-semibold text-primary mb-2">Full-time Opportunities</h4>
                     <p className="text-sm text-muted-foreground">
-                      Seeking QA Engineer positions where I can contribute to high-quality software delivery
+                      Seeking QA Engineer positions where I can contribute to high-quality software delivery.
                     </p>
                   </div>
                   
